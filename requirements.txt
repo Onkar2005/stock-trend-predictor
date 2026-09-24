@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+streamlit>=1.30
+yfinance>=0.2.40
+
+# optional: only needed if you enable MySQL storage (see database/ folder)
+mysql-connector-python>=8.0
+python-dotenv>=1.0
